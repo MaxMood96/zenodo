@@ -252,7 +252,7 @@ webencodings==0.5.1
 Werkzeug==0.15.4
 whichcraft==0.5.2
 wsgi-statsd==0.3.1
-WTForms==2.2.1
+WTForms==3.0.0a1
 WTForms-Alchemy==0.16.9
 WTForms-Components==0.10.3
 zenodo-accessrequests==1.0.0a5
