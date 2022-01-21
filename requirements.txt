@@ -59,7 +59,7 @@ configparser==3.7.4
 contextlib2==0.5.5
 cookiecutter==1.6.0
 counter-robots==2018.6
-cryptography==2.6.1
+cryptography==3.2
 datacite==1.0.1
 dcxml==0.1.1
 decorator==4.4.0
@@ -218,7 +218,7 @@ raven==6.10.0
 redis==3.2.1
 requests==2.21.0
 requests-oauthlib==1.1.0
-requests-kerberos==0.12.0
+requests-kerberos==0.13.0rc1
 scandir==1.10.0
 scikit-learn==0.20.4
 scipy==1.2.3
@@ -241,7 +241,7 @@ ua-parser==0.8.0
 Unidecode==1.0.22
 uritemplate.py==1.0.1
 uritools==2.2.0
-urllib3==1.24.2
+urllib3==1.26.5
 uWSGI==2.0.18
 uwsgitop==0.11
 validators==0.12.6
