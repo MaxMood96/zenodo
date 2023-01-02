@@ -219,7 +219,7 @@ requests==2.21.0
 requests-oauthlib==1.1.0
 requests-kerberos==0.12.0
 scandir==1.10.0
-scikit-learn==0.20.4
+scikit-learn==0.24.2
 scipy==1.2.3
 Sickle==0.6.4
 simplegeneric==0.8.1
