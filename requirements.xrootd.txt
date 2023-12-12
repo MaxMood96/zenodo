@@ -27,3 +27,4 @@
 
 invenio-xrootd==1.0.0a6
 xrootdpyfs==0.1.6
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
