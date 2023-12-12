@@ -59,7 +59,7 @@ configparser==3.7.4
 contextlib2==0.5.5
 cookiecutter==1.6.0
 counter-robots==2018.6
-cryptography==2.6.1
+cryptography==41.0.5
 datacite==1.0.1
 dcxml==0.1.1
 decorator==4.4.0
@@ -250,7 +250,7 @@ wcwidth==0.1.7
 webargs==5.5.1
 webassets==0.12.1
 webencodings==0.5.1
-Werkzeug==0.15.4
+Werkzeug==3.0.1
 whichcraft==0.5.2
 wsgi-statsd==0.3.1
 WTForms==2.2.1
