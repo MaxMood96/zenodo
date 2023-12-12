@@ -178,7 +178,7 @@ MarkupSafe==1.1.1
 marshmallow==2.20.5
 maxminddb==1.5.2
 maxminddb-geolite2==2018.703
-mistune==0.8.4
+mistune==2.0.3
 mock==2.0.0
 msgpack-python==0.5.6
 nbconvert==5.4.1
