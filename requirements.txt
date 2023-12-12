@@ -37,7 +37,7 @@ arrow==0.13.1
 asn1crypto==1.3.0
 attrs==19.1.0
 autosemver==0.5.3
-Babel==2.6.0
+Babel==2.9.1
 backports-abc==0.5
 backports.functools-lru-cache==1.5
 backports.shutil-get-terminal-size==1.0.0
@@ -48,7 +48,7 @@ blinker==1.4
 cairocffi==0.9.0
 CairoSVG==1.0.22
 cchardet==2.1.4
-celery==4.1.1
+celery==5.2.2
 certifi==2019.3.9
 cffi==1.12.2
 chardet==3.0.4
@@ -155,11 +155,11 @@ invenio-userprofiles==1.0.1
 invenio-webhooks==1.0.0a4
 ipaddr==2.2.0
 ipaddress==1.0.22
-ipython==5.8.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 isbnlib==3.10.10
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 jinja2-time==0.2.0
 joblib==0.14.1
 jsmin==2.2.2
@@ -173,7 +173,7 @@ jupyter-core==4.4.0
 kombu==4.4.0
 limits==1.3
 lxml==4.6.2
-Mako==1.0.8
+Mako==1.2.2
 MarkupSafe==1.1.1
 marshmallow==2.20.5
 maxminddb==1.5.2
@@ -185,7 +185,7 @@ nbconvert==5.4.1
 nbformat==4.4.0
 ndg-httpsclient==0.4.4
 node-semver==0.1.1
-numpy==1.16.6
+numpy==1.22.2
 oauthlib==2.1.0
 pandocfilters==1.4.2
 passlib==1.7.1
@@ -193,7 +193,7 @@ pathlib2==2.3.3
 pbr==5.1.3
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==6.2.2
+Pillow==9.0.1
 pluggy==0.12
 poyo==0.4.2
 prompt-toolkit==1.0.15
@@ -202,7 +202,7 @@ ptyprocess==0.6.0
 pyasn1==0.4.2
 pycountry==18.12.8
 pycparser==2.19
-Pygments==2.3.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pykerberos==1.2.1
 pyOpenSSL==17.5.0
@@ -219,7 +219,7 @@ requests==2.21.0
 requests-oauthlib==1.1.0
 requests-kerberos==0.12.0
 scandir==1.10.0
-scikit-learn==0.20.4
+scikit-learn==0.24.2
 scipy==1.2.3
 Sickle==0.6.4
 simplegeneric==0.8.1
@@ -247,12 +247,12 @@ validators==0.12.6
 vine==1.3.0
 Wand==0.5.2
 wcwidth==0.1.7
-webargs==5.5.1
+webargs==5.5.3
 webassets==0.12.1
 webencodings==0.5.1
 Werkzeug==0.15.4
 whichcraft==0.5.2
 wsgi-statsd==0.3.1
-WTForms==2.2.1
+WTForms==2.3.0
 WTForms-Alchemy==0.16.9
 WTForms-Components==0.10.3
