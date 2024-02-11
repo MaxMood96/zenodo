@@ -27,3 +27,4 @@
 
 invenio-xrootd==1.0.0a6
 xrootdpyfs==0.1.6
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
