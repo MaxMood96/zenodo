@@ -181,7 +181,7 @@ maxminddb-geolite2==2018.703
 mistune==0.8.4
 mock==2.0.0
 msgpack-python==0.5.6
-nbconvert==5.4.1
+nbconvert==6.3.0b0
 nbformat==4.4.0
 ndg-httpsclient==0.4.4
 node-semver==0.1.1
