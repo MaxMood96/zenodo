@@ -234,13 +234,13 @@ SQLAlchemy-Utils==0.33.11
 statsd==3.3.0
 testpath==0.4.2
 text-unidecode==1.2
-tornado==5.1.1
+tornado==6.5.3
 traitlets==4.3.2
 ua-parser==0.8.0
 Unidecode==1.0.22
 uritemplate.py==1.0.1
 uritools==2.2.0
-urllib3==1.24.2
+urllib3==2.6.0
 uWSGI==2.0.20
 uwsgitop==0.11
 validators==0.12.6
