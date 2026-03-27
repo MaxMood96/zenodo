@@ -99,7 +99,7 @@ Flask-WTF==0.14.2
 fs==0.5.4
 ftfy==4.4.3
 funcsigs==1.0.2
-future==0.17.1
+future==0.18.3
 github3.py==1.0.0a4
 html5lib==1.0.1
 httpretty==0.9.6
