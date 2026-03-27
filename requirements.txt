@@ -104,7 +104,7 @@ github3.py==1.0.0a4
 html5lib==1.0.1
 httpretty==0.9.6
 humanize==0.5.1
-idna==2.7
+idna==3.7
 IDUtils==1.1.14
 infinity==1.4
 intervals==0.8.1
