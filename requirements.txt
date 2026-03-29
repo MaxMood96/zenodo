@@ -80,7 +80,7 @@ Flask-Breadcrumbs==0.4.0
 Flask-Caching==1.6.0
 Flask-CeleryExt==0.3.4
 Flask-Collect==1.2.2
-Flask-Cors==3.0.9
+Flask-Cors==6.0.0
 Flask-DebugToolbar==0.10.1
 Flask-IIIF==0.5.0
 Flask-KVSession==0.6.2
@@ -215,7 +215,7 @@ PyYAML==5.4.1
 pyzmq==18.0.1
 raven==6.10.0
 redis==3.2.1
-requests==2.21.0
+requests==2.32.4
 requests-oauthlib==1.1.0
 requests-kerberos==0.12.0
 scandir==1.10.0
