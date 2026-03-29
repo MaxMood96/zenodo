@@ -196,7 +196,7 @@ pickleshare==0.7.5
 Pillow==6.2.2
 pluggy==0.12
 poyo==0.4.2
-prompt-toolkit==1.0.15
+prompt-toolkit==3.0.13
 psycopg2-binary==2.7.7
 ptyprocess==0.6.0
 pyasn1==0.4.2
