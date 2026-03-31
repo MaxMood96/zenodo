@@ -155,7 +155,7 @@ invenio-userprofiles==1.0.1
 invenio-webhooks==1.0.0a4
 ipaddr==2.2.0
 ipaddress==1.0.22
-ipython==5.8.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 isbnlib==3.10.10
 itsdangerous==1.1.0
