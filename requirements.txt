@@ -49,7 +49,7 @@ cairocffi==0.9.0
 CairoSVG==1.0.22
 cchardet==2.1.4
 celery==4.1.1
-certifi==2019.3.9
+certifi==2023.7.22
 cffi==1.12.2
 chardet==3.0.4
 citeproc-py==0.5.1
