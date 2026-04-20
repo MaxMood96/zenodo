@@ -219,7 +219,7 @@ requests==2.21.0
 requests-oauthlib==1.1.0
 requests-kerberos==0.12.0
 scandir==1.10.0
-scikit-learn==0.20.4
+scikit-learn==1.5.0
 scipy==1.2.3
 Sickle==0.6.4
 simplegeneric==0.8.1
@@ -234,7 +234,7 @@ SQLAlchemy-Utils==0.33.11
 statsd==3.3.0
 testpath==0.4.2
 text-unidecode==1.2
-tornado==5.1.1
+tornado==6.4.1
 traitlets==4.3.2
 ua-parser==0.8.0
 Unidecode==1.0.22
